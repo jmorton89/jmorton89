@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jmorton89
 - 👀 I’m interested in all kinds of technology!
 - 🌱 I’m currently learning basic Python scripting.
-- 💞️ I’m looking for entry level IT opportunities.
+- 💞️ I’m a network technician at BEI Hawaii.
 - 📫 How to reach me linkedin.com/in/joelrmorton.
 
 <!---
